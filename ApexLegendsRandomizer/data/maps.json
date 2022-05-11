@@ -5,21 +5,22 @@
         "locations": [
             "BAROMETER",
             "COMMAND CENTER",
-            "THE ANTENNA",
+            "ANTENNA",
             "CHECKPOINT",
             "LIGHTNING ROD",
             "STORM CATCHER",
             "NORTH PAD",
             "THE MILL",
-            "SHIPFALL",
+            "SHIP FALL",
             "CENOTE CAVE",
             "THE WALL",
             "HIGHPOINT",
             "THUNDER WATCH",
             "CASCADE FALLS",
-            "LAUNCH SITE",
+            "LAUNCH PAD",
             "FISH FARMS",
-            "GALE STATION"
+            "GALE STATION",
+            "DOWNED BEAST"
         ]
     },
     {
