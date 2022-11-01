@@ -1,5 +1,27 @@
 [
     {
+        "name": "BROKEN MOON",
+        "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/maps/covers/broken_moon.jpg",
+        "locations": [
+            "ZIP RAILS",
+            "POINTS OF INTEREST",
+            "TERRAFORMER",
+            "STASIS NET ARRAY",
+            "ATMOSTATION AND BACKUP ATMO",
+            "PERPETUAL CORE",
+            "BIONOMICS",
+            "THE DIVIDE",
+            "ALPHA BASE",
+            "ETERNAL GARDENS",
+            "BREAKER WHARF",
+            "PRODUCTION YARD",
+            "THE FOUNDRY",
+            "DRY GULCH",
+            "CULTIVATION",
+            "PROMENADES"
+        ]
+    },
+    {
         "name": "STORM POINT",
         "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/maps/covers/storm_point.jpg",
         "locations": [
