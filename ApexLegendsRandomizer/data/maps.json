@@ -3,12 +3,9 @@
         "name": "BROKEN MOON",
         "link": "https://raw.githubusercontent.com/mktorunoglu/_sharedSources/main/ApexLegendsRandomizer/maps/covers/broken_moon.jpg",
         "locations": [
-            "ZIP RAILS",
-            "POINTS OF INTEREST",
             "TERRAFORMER",
-            "STASIS NET ARRAY",
+            "STASIS ARRAY",
             "ATMOSTATION",
-            "PERPETUAL CORE",
             "BIONOMICS",
             "THE DIVIDE",
             "ALPHA BASE",
@@ -18,7 +15,10 @@
             "THE FOUNDRY",
             "DRY GULCH",
             "CULTIVATION",
-            "PROMENADES"
+            "N. PROMENADE",
+            "S. PROMENADE",
+            "THE CORE",
+            "BACKUP ATMO"
         ]
     },
     {
